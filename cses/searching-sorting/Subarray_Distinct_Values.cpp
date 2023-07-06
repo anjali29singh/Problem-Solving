@@ -15,7 +15,11 @@ int main()
         cin >> arr[i];
     }
 
-    long long cnt = 0;
+    ll ans = 0, cnt = 0;
+
+    for (int i = 0; i < N; i++)
+    {
+    }
 
     return 0;
 }
