@@ -9,6 +9,7 @@ int main()
     int N;
     cin >> N;
     multiset<ll> set;
+
     for (int i = 0; i < N; i++)
     {
         ll x;
