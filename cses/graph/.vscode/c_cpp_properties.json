@@ -2,10 +2,7 @@
   "configurations": [
     {
       "name": "Linux",
-      "includePath": [
-        "${workspaceFolder}/**",
-        "/usr/include/x86_64-linux-gnu/c++/11"
-      ],
+      "includePath": ["${workspaceFolder}/**"],
       "defines": [],
       "compilerPath": "/usr/bin/g++",
       "cStandard": "c17",
